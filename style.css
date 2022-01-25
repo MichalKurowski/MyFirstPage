@@ -1,14 +1,3 @@
 body {
-background-color: grey;
-
-} 
- #tytul {
-            color: black;
-            font-family:'Courier New', Courier, monospace ;
-           
-        }
-
-.subtytul {
-            color: brown;
-        }
-         
+    background-image: url(zdjecia/tlo.png);
+    }
